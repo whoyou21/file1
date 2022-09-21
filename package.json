@@ -15,7 +15,7 @@
     "config.json": "0.0.4",
     "nuxt": "^2.8.1",
     "vue": "^2.6.10",
-    "vuetify": "^2.1.6",
+    "vuetify": "^2.6.10",
     "vuex-i18n": "^1.13.1"
   },
   "devDependencies": {
